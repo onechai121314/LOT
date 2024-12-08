@@ -202,7 +202,7 @@ $db->close();
     <header>
     <div class="logo">
         <a href="lot_page.php">
-            <img src="logo.png" alt="โลโก้เว็บไซต์">
+            <img src="logo_lot.png" alt="โลโก้เว็บไซต์">
         </a>
     </div>
         <div class="menu-phone menu-toggle" onclick="toggleMenu()">☰ เมนู</div>
